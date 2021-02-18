@@ -3,6 +3,8 @@
 ### :beginner: I am a student of Ryazan State Radio Engineering University named after V.F. Utkin
 ### :beginner: I study at the Faculty of Computer Science
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=KlimchukNikita.KlimchukNikita)
+
 <!--
 **KlimchukNikita/KlimchukNikita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
