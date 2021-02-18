@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello There 👋
+***
+### :beginner: I am a student of Ryazan State Radio Engineering University named after V.F. Utkin
+### :beginner: I study at the Faculty of Computer Science
 
 <!--
 **KlimchukNikita/KlimchukNikita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
